@@ -138,12 +138,12 @@ const sriSuriya: Developer = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=srisuriya13022006&custom_title=Sri%20Suriya's%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
   
   <!-- Snake Animation -->
-  <picture>
-   
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srisuriya13022006/srisuriya13022006/output/snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srisuriya13022006/srisuriya13022006/output/snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/srisuriya13022006/srisuriya13022006/output/snake.svg">
-  </picture>
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srisuriya13022006/srisuriya13022006/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srisuriya13022006/srisuriya13022006/output/github-contribution-grid-snake-light.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/srisuriya13022006/srisuriya13022006/output/github-contribution-grid-snake.svg">
+</picture>
   
 </div>
 
