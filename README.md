@@ -139,9 +139,10 @@ const sriSuriya: Developer = {
   
   <!-- Snake Animation -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srisuriya13022006/srisuriya13022006/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srisuriya13022006/srisuriya13022006/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/srisuriya13022006/srisuriya13022006/output/github-contribution-grid-snake.svg">
+   
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srisuriya13022006/srisuriya13022006/output/snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srisuriya13022006/srisuriya13022006/output/snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/srisuriya13022006/srisuriya13022006/output/snake.svg">
   </picture>
   
 </div>
