@@ -1,172 +1,217 @@
-# Hi there! 👋 I'm Sri Suriya S
+# Hi there! 👋 I'm **Sri Suriya S**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Freelancing+AI+Developer+%F0%9F%A4%96;Front-end+Web+Developer+%F0%9F%8C%90;Chatbot+Developer+%F0%9F%92%AC;Flutter+Developer+%F0%9F%93%B1" alt="Typing SVG" />
+  
+  <!-- Animated Typing Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Freelancing+AI+Developer;Front-end+Web+Developer;Chatbot+Specialist;Flutter+Developer" alt="Typing SVG" />
+  
+  <!-- Professional Banner -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32" />
+  
 </div>
 
-<div align="center">
-  <img src="https://github.com/srisuriya13022006/srisuriya13022006/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+---
 
-## 🚀 About Me
+## 👨‍💻 **About Me**
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```typescript
-const sriSuriya = {
-    name: "Sri Suriya S",
-    role: "Freelancing AI Developer",
-    location: "Tamil Nadu, India",
-    passions: ["AI Development", "Web Development", "UI/UX Design"],
-    currentFocus: "Building intelligent chatbots and modern web applications",
-    motto: "Turning ideas into intelligent solutions ✨"
+interface Developer {
+  name: string;
+  role: string;
+  location: string;
+  expertise: string[];
+  currentFocus: string;
+  availableForHire: boolean;
+}
+
+const sriSuriya: Developer = {
+  name: "Sri Suriya S",
+  role: "Freelancing AI Developer",
+  location: "Tamil Nadu, India 🇮🇳",
+  expertise: [
+    "AI & Machine Learning",
+    "Frontend Development", 
+    "Mobile App Development",
+    "UI/UX Design"
+  ],
+  currentFocus: "Building intelligent solutions with AI",
+  availableForHire: true
 };
 ```
 
-> 🔥 I am an AI developer and freelancer specializing in comprehensive front-end web development and intelligent chatbot solutions. I transform Figma designs into beautiful Flutter applications and create conversational AI experiences.
+### 🎯 **What I Do**
+- 🤖 **AI Development**: Creating intelligent chatbots and ML models
+- 🌐 **Web Development**: Building responsive, modern web applications  
+- 📱 **Mobile Development**: Flutter apps from Figma designs
+- 🎨 **UI/UX Design**: Crafting beautiful, user-centered interfaces
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ **Technology Stack**
+
+<details>
+<summary><b>🔧 Click to expand my tech arsenal</b></summary>
+<br>
+
+### **Languages**
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### **Frameworks & Libraries**
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+</p>
+
+### **Tools & Platforms**
+<p>
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+### **AI & ML**
+<p>
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img alt="Dialogflow" src="https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white"/>
+  <img alt="Hugging Face" src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black"/>
+  <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+</details>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  
+  <!-- GitHub Stats Cards -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srisuriya13022006&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&border_radius=8"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=srisuriya13022006&theme=github-dark-blue&hide_border=true&border_radius=8"/>
+  
+</div>
+
+<div align="center">
+  
+  <!-- Language Stats & Trophies -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srisuriya13022006&layout=compact&theme=github_dark&hide_border=true&border_radius=8&langs_count=8"/>
+  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=srisuriya13022006&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=3"/>
+  
+</div>
+
+---
+
+## 🚀 **Featured Projects**
 
 <div align="center">
 
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### Design & Development Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### AI & Chatbot Development
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| 🤖 **AI Chatbot Engine** | Intelligent conversational AI with NLP capabilities | `Python` `TensorFlow` `OpenAI API` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/srisuriya13022006) [![Live](https://img.shields.io/badge/Demo-00C7B7?style=flat-square&logo=netlify)](https://srisuriya.github.io) |
+| 🌐 **Modern Web Dashboard** | Responsive admin dashboard with real-time analytics | `React` `TypeScript` `Node.js` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/srisuriya13022006) [![Live](https://img.shields.io/badge/Demo-00C7B7?style=flat-square&logo=netlify)](https://srisuriya.github.io) |
+| 📱 **Flutter Mobile Suite** | Cross-platform mobile apps from Figma designs | `Flutter` `Dart` `Firebase` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/srisuriya13022006) [![Store](https://img.shields.io/badge/Store-414141?style=flat-square&logo=google-play)](https://srisuriya.github.io) |
+| 🎨 **Design System Library** | Reusable UI components and design tokens | `Figma` `React` `Storybook` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/srisuriya13022006) [![Docs](https://img.shields.io/badge/Docs-FF6B6B?style=flat-square&logo=gitbook)](https://srisuriya.github.io) |
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 **Development Activity**
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=srisuriya13022006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=srisuriya13022006&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srisuriya13022006&custom_title=Sri%20Suriya's%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+  
+  <!-- Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srisuriya13022006/srisuriya13022006/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srisuriya13022006/srisuriya13022006/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/srisuriya13022006/srisuriya13022006/output/github-contribution-grid-snake.svg">
+  </picture>
+  
 </div>
 
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srisuriya13022006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=srisuriya13022006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
 ---
 
-## 🎯 Featured Projects
+## 💼 **Services & Expertise**
 
 <div align="center">
 
-### 🤖 AI Chatbot Solutions
-[![AI Chatbot](https://img.shields.io/badge/AI%20Chatbot-View%20Project-6366F1?style=for-the-badge&logo=github)](https://github.com/srisuriya13022006)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-FF6B6B?style=flat-square)
-
-*Intelligent conversational AI with natural language processing capabilities*
-
----
-
-### 🌐 Modern Web Applications
-[![Web App](https://img.shields.io/badge/Web%20App-View%20Project-10B981?style=for-the-badge&logo=github)](https://github.com/srisuriya13022006)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Responsive](https://img.shields.io/badge/Responsive-EC4899?style=flat-square)
-
-*Responsive and interactive web applications with modern UI/UX*
-
----
-
-### 📱 Flutter Mobile Apps
-[![Flutter App](https://img.shields.io/badge/Flutter%20App-View%20Project-02569B?style=for-the-badge&logo=github)](https://github.com/srisuriya13022006)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Cross Platform](https://img.shields.io/badge/Cross%20Platform-8B5CF6?style=flat-square)
-
-*Cross-platform mobile applications from Figma designs*
-
----
-
-### 🎨 UI/UX Design Portfolio
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-F59E0B?style=for-the-badge&logo=globe)](https://srisuriya.github.io)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Design](https://img.shields.io/badge/UI/UX-EF4444?style=flat-square)
-![Creative](https://img.shields.io/badge/Creative-06B6D4?style=flat-square)
-
-*Showcase of design projects and development work*
+```mermaid
+mindmap
+  root((Sri Suriya))
+    AI Development
+      Chatbot Creation
+      NLP Solutions
+      ML Model Training
+      AI Integration
+    Web Development
+      React Applications
+      Modern UI/UX
+      Responsive Design
+      Performance Optimization
+    Mobile Development
+      Flutter Apps
+      Cross-platform
+      Figma to Code
+      App Store Deployment
+    Consulting
+      Technical Architecture
+      Code Reviews
+      Performance Audits
+      Team Mentoring
+```
 
 </div>
 
 ---
 
-## 🌟 What I Do
+## 🌐 **Let's Connect & Collaborate**
 
 <div align="center">
-
-| 🎯 **AI Development** | 🌐 **Web Development** | 📱 **Mobile Apps** | 🎨 **Design** |
-|:---:|:---:|:---:|:---:|
-| Chatbot Development | React Applications | Flutter Development | Figma to Code |
-| Natural Language Processing | Modern UI/UX | Cross-platform Apps | Responsive Design |
-| Machine Learning Models | Frontend Architecture | Mobile Optimization | User Experience |
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srisuriya13022006&bg_color=1a1b27&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-6366F1?style=for-the-badge&logo=globe&logoColor=white)](https://srisuriya.github.io)
-[![Email](https://img.shields.io/badge/Email-srisuriya200602@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srisuriya200602@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srisuriya13022006)
-
+  
+  <!-- Contact Badges -->
+  [![Portfolio](https://img.shields.io/badge/🌍_Portfolio-Visit_My_Website-blue?style=for-the-badge)](https://srisuriya.github.io)
+  [![Email](https://img.shields.io/badge/📧_Email-srisuriya200602@gmail.com-red?style=for-the-badge)](mailto:srisuriya200602@gmail.com)
+  [![GitHub](https://img.shields.io/badge/💻_GitHub-Follow_Me-black?style=for-the-badge)](https://github.com/srisuriya13022006)
+  
+  <br><br>
+  
+  <!-- Professional Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+  
+  <br><br>
+  
+  <!-- Status Indicators -->
+  ![Profile Views](https://komarev.com/ghpvc/?username=srisuriya13022006&style=for-the-badge&color=brightgreen)
+  ![GitHub Followers](https://img.shields.io/github/followers/srisuriya13022006?style=for-the-badge&color=blue)
+  ![Years Badge](https://badges.pufler.dev/years/srisuriya13022006?style=for-the-badge&color=orange)
+  
 </div>
 
 ---
 
 <div align="center">
-
-### 💡 "Building tomorrow's AI solutions, today!"
-
-<img src="https://komarev.com/ghpvc/?username=srisuriya13022006&style=for-the-badge&color=6366f1" alt="Profile Views" />
-
----
-
-<img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Bottom" />
-
+  
+  ### 💡 *"Transforming ideas into intelligent digital solutions"*
+  
+  **🚀 Available for freelance projects • Open to collaboration • Always learning**
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%"/>
+  
 </div>
-
-<!-- Invisible image for GitHub snake animation generation -->
-![snake gif](https://github.com/srisuriya13022006/srisuriya13022006/blob/output/github-contribution-grid-snake.svg)
