@@ -32,9 +32,8 @@ const sriSuriya: Developer = {
   location: "Tamil Nadu, India 🇮🇳",
   expertise: [
     "AI & Machine Learning",
-    "Frontend Development",
-    "Mobile App Development",
-    "UI/UX Design"
+    "Frontend Development"
+
   ],
   currentFocus: "Building intelligent solutions with AI",
   availableForHire: true
