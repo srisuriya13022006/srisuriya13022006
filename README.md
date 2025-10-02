@@ -3,7 +3,7 @@
 <div align="center">
   
   <!-- Animated Typing Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Freelancing+AI+Developer;Front-end+Web+Developer;Chatbot+Specialist;Flutter+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=AI+Developer;Front-end+Web+Developer;Chatbot+Specialist;" alt="Typing SVG" />
   
   <!-- Professional Banner -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32" />
@@ -32,7 +32,7 @@ const sriSuriya: Developer = {
   location: "Tamil Nadu, India 🇮🇳",
   expertise: [
     "AI & Machine Learning",
-    "Frontend Development", 
+    "Frontend Development",
     "Mobile App Development",
     "UI/UX Design"
   ],
@@ -40,12 +40,6 @@ const sriSuriya: Developer = {
   availableForHire: true
 };
 ```
-
-### 🎯 **What I Do**
-- 🤖 **AI Development**: Creating intelligent chatbots and ML models
-- 🌐 **Web Development**: Building responsive, modern web applications  
-- 📱 **Mobile Development**: Flutter apps from Figma designs
-- 🎨 **UI/UX Design**: Crafting beautiful, user-centered interfaces
 
 ---
 
@@ -60,7 +54,6 @@ const sriSuriya: Developer = {
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
@@ -68,11 +61,9 @@ const sriSuriya: Developer = {
 ### **Frameworks & Libraries**
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </p>
 
 ### **Tools & Platforms**
@@ -115,21 +106,6 @@ const sriSuriya: Developer = {
 
 ---
 
-## 🚀 **Featured Projects**
-
-<div align="center">
-
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| 🤖 **AI Chatbot Engine** | Intelligent conversational AI with NLP capabilities | `Python` `TensorFlow` `OpenAI API` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/srisuriya13022006) [![Live](https://img.shields.io/badge/Demo-00C7B7?style=flat-square&logo=netlify)](https://srisuriya.github.io) |
-| 🌐 **Modern Web Dashboard** | Responsive admin dashboard with real-time analytics | `React` `TypeScript` `Node.js` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/srisuriya13022006) [![Live](https://img.shields.io/badge/Demo-00C7B7?style=flat-square&logo=netlify)](https://srisuriya.github.io) |
-| 📱 **Flutter Mobile Suite** | Cross-platform mobile apps from Figma designs | `Flutter` `Dart` `Firebase` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/srisuriya13022006) [![Store](https://img.shields.io/badge/Store-414141?style=flat-square&logo=google-play)](https://srisuriya.github.io) |
-| 🎨 **Design System Library** | Reusable UI components and design tokens | `Figma` `React` `Storybook` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/srisuriya13022006) [![Docs](https://img.shields.io/badge/Docs-FF6B6B?style=flat-square&logo=gitbook)](https://srisuriya.github.io) |
-
-</div>
-
----
-
 ## 📈 **Development Activity**
 
 <div align="center">
@@ -138,46 +114,12 @@ const sriSuriya: Developer = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=srisuriya13022006&custom_title=Sri%20Suriya's%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
   
   <!-- Snake Animation -->
-<!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srisuriya13022006/srisuriya13022006/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srisuriya13022006/srisuriya13022006/output/github-contribution-grid-snake-light.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/srisuriya13022006/srisuriya13022006/output/github-contribution-grid-snake.svg">
 </picture>
   
-</div>
-
----
-
-## 💼 **Services & Expertise**
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Sri Suriya))
-    AI Development
-      Chatbot Creation
-      NLP Solutions
-      ML Model Training
-      AI Integration
-    Web Development
-      React Applications
-      Modern UI/UX
-      Responsive Design
-      Performance Optimization
-    Mobile Development
-      Flutter Apps
-      Cross-platform
-      Figma to Code
-      App Store Deployment
-    Consulting
-      Technical Architecture
-      Code Reviews
-      Performance Audits
-      Team Mentoring
-```
-
 </div>
 
 ---
@@ -211,8 +153,7 @@ mindmap
   
   ### 💡 *"Transforming ideas into intelligent digital solutions"*
   
-  **🚀 Available for freelance projects • Open to collaboration • Always learning**
-  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%"/>
   
 </div>
+
